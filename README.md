@@ -75,7 +75,7 @@ Afterwards, the folder structure of this project is listed for further details:
 	├── python                                  # Amended version of the python folder from the ML-Agents repository
 	├── README.md                               # Project readme file
 	├── Report.ipynb                            # The main project report
-	└── weights									# contains the weights of each trained network with various hyper parameters
+	└── weights                                 # contains the weights of each trained network with various hyper parameters
 	    ├── network_fc1-16_fc2-16_e-400_decay-0.995.pth
 	    ├── ...
 	    └── network_fc1-8_fc2-8_e-2000_decay-0.995.pth
